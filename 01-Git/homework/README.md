@@ -135,7 +135,7 @@ Esto nos dice que tenemos un archivo que ha cambiado, pero todavía no ha sido g
 
 Para hacer esto, usaremos el comando "add":
 
-
+ 
 ```bash
   git add archivo-ejemplo.js
 ```

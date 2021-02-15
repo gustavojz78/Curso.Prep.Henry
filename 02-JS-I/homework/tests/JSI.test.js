@@ -1,12 +1,12 @@
 /* eslint-disable no-undef */
 const {
-  nuevaString,
-  nuevoNum,
-  nuevoBool,
-  nuevaResta,
+  nuevaString='hola',
+  nuevoNum=7,
+  nuevoBool=false,
+  nuevaResta=true,
   nuevaMultiplicacion,
   nuevoModulo,
-  devolverString,
+  devolverString = 'devolver',
   tienenMismaLongitud,
   sonIguales,
   menosQueNoventa,
